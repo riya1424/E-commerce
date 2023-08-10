@@ -1,0 +1,17 @@
+@media (min-width:992px){
+    .container{
+        max-width: 960px;
+    }
+    .toggle{
+        display: block;
+    }
+    nav ul{
+        position: absolute;
+        top: 100%;
+        left: 0;
+        line-height: 30px;
+        width: 100%;
+        /* flex-direction: column; */
+        background-color: #212529;
+    }
+}
